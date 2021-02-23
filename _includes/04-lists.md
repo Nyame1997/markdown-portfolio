@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Anime and Manga
+* DC
+* Music
+* Writing
+* Coding
+  * Haskell
+  * Python
+  * SQL (Database Queries)
